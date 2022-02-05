@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.App {
+  background-image: url("/src/Assets/World.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}

@@ -1,0 +1,15 @@
+.output {
+  flex: 50%;
+}
+
+.output input {
+  width: 90%;
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+  border-radius: 10px;
+  height: 3rem;
+  padding-left: 10px;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}

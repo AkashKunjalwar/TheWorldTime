@@ -1,0 +1,3232 @@
+{
+    "regions" : [
+        {
+            "id" : 1,
+            "name" : "Baker Island",
+            "utcOffset" : -12,
+            "useDTS" : false,
+            "timezoneID" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Howland Island",
+            "utcOffset" : -12,
+            "useDTS" : false,
+            "timezoneID" : 1
+        },
+        {
+            "id" : 3,
+            "name" : "American Samoa",
+            "utcOffset" : -11,
+            "useDTS" : false,
+            "timezoneID" : 2
+        },
+        {
+            "id" : 4,
+            "name" : "Jarvis Island",
+            "utcOffset" : -11,
+            "useDTS" : false,
+            "timezoneID" : 2
+        },
+        {
+            "id" : 5,
+            "name" : "Kingman Reef",
+            "utcOffset" : -11,
+            "useDTS" : false,
+            "timezoneID" : 2
+        },
+        {
+            "id" : 6,
+            "name" : "Midway Atoll",
+            "utcOffset" : -11,
+            "useDTS" : false,
+            "timezoneID" : 2
+        },
+        {
+            "id" : 7,
+            "name" : "Niue",
+            "utcOffset" : -11,
+            "useDTS" : false,
+            "timezoneID" : 2
+        },
+        {
+            "id" : 8,
+            "name" : "Palmyra Atoll",
+            "utcOffset" : -11,
+            "useDTS" : false,
+            "timezoneID" : 2
+        },
+        {
+            "id" : 9,
+            "name" : "Cook Islands",
+            "utcOffset" : -10,
+            "useDTS" : false,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 10,
+            "name" : "Johnston Atoll",
+            "utcOffset" : -10,
+            "useDTS" : false,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 11,
+            "name" : "Hawaii",
+            "utcOffset" : -10,
+            "useDTS" : false,
+            "timezoneID" : 3
+        },    
+        {
+            "id" : 12,
+            "name" : "French Polynesia (most)",
+            "utcOffset" : -10,
+            "useDTS" : false,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 13,
+            "name" : "Andreanof Islands",
+            "utcOffset" : -10,
+            "useDTS" : true,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 14,
+            "name" : "Islands of Four Mountains",
+            "utcOffset" : -10,
+            "useDTS" : true,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 15,
+            "name" : "Near Islands",
+            "utcOffset" : -10,
+            "useDTS" : true,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 16,
+            "name" : "Rat Islands (Aleutian Islands, Alaska)",
+            "utcOffset" : -10,
+            "useDTS" : true,
+            "timezoneID" : 3
+        },
+        {
+            "id" : 17,
+            "name" : "French Polynesia: Marquesas Islands",
+            "utcOffset" : -9.5,
+            "useDTS" : false,
+            "timezoneID" : 4
+        },
+        {
+            "id" : 18,
+            "name" : "French Polynesia: Gambier Islands",
+            "utcOffset" : -9,
+            "useDTS" : false,
+            "timezoneID" : 5
+        },
+        {
+            "id" : 19,
+            "name" : "Alaska (most)",
+            "utcOffset" : -9,
+            "useDTS" : true,
+            "timezoneID" : 5
+        },
+        {
+            "id" : 20,
+            "name" : "Clipperton Island",
+            "utcOffset" : -8,
+            "useDTS" : false,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 21,
+            "name" : "Pitcairn Islands",
+            "utcOffset" : -8,
+            "useDTS" : false,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 22,
+            "name" : "British Columbia (most)",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 23,
+            "name" : "Baja California",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 24,
+            "name" : "California",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 25,
+            "name" : "Idaho (north)",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 26,
+            "name" : "Nevada (most)",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 27,
+            "name" : "Oregon (most)",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 28,
+            "name" : "Washington",
+            "utcOffset" : -8,
+            "useDTS" : true,
+            "timezoneID" : 6
+        },
+        {
+            "id" : 29,
+            "name" : "British Columbia (northeast)",
+            "utcOffset" : -7,
+            "useDTS" : false,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 30,
+            "name" : "Yukon",
+            "utcOffset" : -7,
+            "useDTS" : false,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 31,
+            "name" : "Sonora",
+            "utcOffset" : -7,
+            "useDTS" : false,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 32,
+            "name" : "Arizona (most)",
+            "utcOffset" : -7,
+            "useDTS" : false,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 33,
+            "name" : "Alberta",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 34,
+            "name" : "British Columbia (southeast)",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 35,
+            "name" : "Northwest Territories",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 36,
+            "name" : "Nunavut (west)",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 37,
+            "name" : "Baja California Sur",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 38,
+            "name" : "Chihuahua",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 39,
+            "name" : "Nayarit (most)",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 40,
+            "name" : "Sinaloa",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 41,
+            "name" : "Colorado",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 42,
+            "name" : "Idaho (most)",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 43,
+            "name" : "Montana",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 44,
+            "name" : "New Mexico",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 45,
+            "name" : "Utah",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 46,
+            "name" : "Wyoming",
+            "utcOffset" : -7,
+            "useDTS" : true,
+            "timezoneID" : 7
+        },
+        {
+            "id" : 47,
+            "name" : "Belize",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 48,
+            "name" : "Saskatchewan (most)",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 49,
+            "name" : "Costa Rica",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 50,
+            "name" : "Galápagos",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 51,
+            "name" : "El Salvador",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 52,
+            "name" : "Guatemala",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 53,
+            "name" : "Honduras",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 54,
+            "name" : "Nicaragua",
+            "utcOffset" : -6,
+            "useDTS" : false,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 55,
+            "name" : "Manitoba",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 56,
+            "name" : "Nunavut (central)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 57,
+            "name" : "Ontario (west)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 58,
+            "name" : "Easter Island",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 59,
+            "name" : "Mexico (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 60,
+            "name" : "Alabama",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 61,
+            "name" : "Arkansas",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 62,
+            "name" : "Illinois",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 63,
+            "name" : "Iowa",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 64,
+            "name" : "Kansas (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 65,
+            "name" : "Louisiana",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 66,
+            "name" : "Minnesota",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 67,
+            "name" : "Mississippi",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 68,
+            "name" : "Missouri",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 69,
+            "name" : "Nebraska (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 70,
+            "name" : "North Dakota (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 71,
+            "name" : "Oklahoma",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 72,
+            "name" : "South Dakota (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 73,
+            "name" : "Tennessee (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 74,
+            "name" : "Texas (most)",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 75,
+            "name" : "Wisconsin",
+            "utcOffset" : -6,
+            "useDTS" : true,
+            "timezoneID" : 8
+        },
+        {
+            "id" : 76,
+            "name" : "Acre",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 77,
+            "name" : "Atikokan",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 78,
+            "name" : "Mishkeegogamang",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 79,
+            "name" : "Southampton Island",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 80,
+            "name" : "Cayman Islands",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 81,
+            "name" : "Colombia",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 82,
+            "name" : "Ecuador (most)",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 83,
+            "name" : "Jamaica",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 84,
+            "name" : "Quintana Roo",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 85,
+            "name" : "Navassa Island",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 86,
+            "name" : "Panama",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 87,
+            "name" : "Peru",
+            "utcOffset" : -5,
+            "useDTS" : false,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 88,
+            "name" : "Bahamas",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 89,
+            "name" : "Nunavut (east)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 90,
+            "name" : "Ontario (most)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 91,
+            "name" : "Quebec (most)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 92,
+            "name" : "Cuba",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 93,
+            "name" : "Haiti",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 94,
+            "name" : "Turks and Caicos Islands",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 95,
+            "name" : "Connecticut",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 96,
+            "name" : "Delaware",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 97,
+            "name" : "District of Columbia",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 98,
+            "name" : "Florida (most)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 99,
+            "name" : "Georgia",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 100,
+            "name" : "Indiana (most)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 101,
+            "name" : "Kentucky (most)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 102,
+            "name" : "Maine",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 103,
+            "name" : "Maryland",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 104,
+            "name" : "Massachusetts",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 105,
+            "name" : "Michigan (most)",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 106,
+            "name" : "New Hampshire",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 107,
+            "name" : "New Jersey",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 108,
+            "name" : "New York",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 109,
+            "name" : "North Carolina",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 110,
+            "name" : "Ohio",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 111,
+            "name" : "Pennsylvania",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 112,
+            "name" : "Rhode Island",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 113,
+            "name" : "South Carolina",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 114,
+            "name" : "Vermont",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 115,
+            "name" : "Virginia",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 116,
+            "name" : "West Virginia",
+            "utcOffset" : -5,
+            "useDTS" : true,
+            "timezoneID" : 9
+        },
+        {
+            "id" : 117,
+            "name" : "Anguilla",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 118,
+            "name" : "Antigua and Barbuda",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 119,
+            "name" : "Aruba",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 120,
+            "name" : "Barbados",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 121,
+            "name" : "Bolivia",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 122,
+            "name" : "Amazonas (most)",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 123,
+            "name" : "Mato Grosso",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 124,
+            "name" : "Mato Grosso do Sul",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 125,
+            "name" : "Rondônia",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 126,
+            "name" : "Roraima",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 127,
+            "name" : "British Virgin Islands",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 128,
+            "name" : "Quebec (east)",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 129,
+            "name" : "Caribbean Netherlands",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 130,
+            "name" : "Curaçao",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 131,
+            "name" : "Dominica",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 132,
+            "name" : "Dominican Republic",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 133,
+            "name" : "Grenada",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 134,
+            "name" : "Guadeloupe",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 135,
+            "name" : "Guyana",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 136,
+            "name" : "Martinique",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 137,
+            "name" : "Montserrat",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 138,
+            "name" : "Puerto Rico",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 139,
+            "name" : "Saint Barthélemy",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 140,
+            "name" : "Saint Kitts and Nevis",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 141,
+            "name" : "Saint Lucia",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 142,
+            "name" : "Saint Martin",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 143,
+            "name" : "Sint Maarten",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 144,
+            "name" : "Trinidad and Tobago",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 145,
+            "name" : "U.S. Virgin Islands",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 146,
+            "name" : "Venezuela",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 147,
+            "name" : "Bermuda",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 148,
+            "name" : "Labrador (most)",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 149,
+            "name" : "New Brunswick",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 150,
+            "name" : "Nova Scotia",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 151,
+            "name" : "Prince Edward Island",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 152,
+            "name" : "Chile (most)",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 153,
+            "name" : "Thule Air Base",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 154,
+            "name" : "Paraguay",
+            "utcOffset" : -4,
+            "useDTS" : true,
+            "timezoneID" : 10
+        },
+        {
+            "id" : 155,
+            "name" : "Newfoundland",
+            "utcOffset" : -3.5,
+            "useDTS" : true,
+            "timezoneID" : 11
+        },
+        {
+            "id" : 156,
+            "name" : "Labrador (southeast)",
+            "utcOffset" : -3.5,
+            "useDTS" : true,
+            "timezoneID" : 11
+        },
+        {
+            "id" : 157,
+            "name" : "Argentina",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 158,
+            "name" : "Brazil (most)",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 159,
+            "name" : "Magallanes",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 160,
+            "name" : "Falkland Islands",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 161,
+            "name" : "French Guiana",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 162,
+            "name" : "Suriname",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 163,
+            "name" : "Uruguay",
+            "utcOffset" : -3,
+            "useDTS" : false,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 164,
+            "name" : "Greenland (most)",
+            "utcOffset" : -3,
+            "useDTS" : true,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 165,
+            "name" : "Saint Pierre and Miquelon",
+            "utcOffset" : -3,
+            "useDTS" : true,
+            "timezoneID" : 12
+        },
+        {
+            "id" : 166,
+            "name" : "Fernando de Noronha",
+            "utcOffset" : -2,
+            "useDTS" : false,
+            "timezoneID" : 13
+        },
+        {
+            "id" : 167,
+            "name" : "South Georgia and the South Sandwich Islands",
+            "utcOffset" : -2,
+            "useDTS" : false,
+            "timezoneID" : 13
+        },
+        {
+            "id" : 168,
+            "name" : "Cape Verde",
+            "utcOffset" : -1,
+            "useDTS" : false,
+            "timezoneID" : 14
+        },
+        {
+            "id" : 169,
+            "name" : "Ittoqqortoormiit",
+            "utcOffset" : -1,
+            "useDTS" : true,
+            "timezoneID" : 14
+        },
+        {
+            "id" : 170,
+            "name" : "Azores",
+            "utcOffset" : -1,
+            "useDTS" : true,
+            "timezoneID" : 14
+        },
+        {
+            "id" : 171,
+            "name" : "Burkina Faso",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 172,
+            "name" : "Gambia",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 173,
+            "name" : "Ghana",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 174,
+            "name" : "Danmarkshavn",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 175,
+            "name" : "Guinea",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 176,
+            "name" : "Guinea-Bissau",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 177,
+            "name" : "Iceland",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 178,
+            "name" : "Ivory Coast",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 179,
+            "name" : "Liberia",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 180,
+            "name" : "Mali",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 181,
+            "name" : "Mauritania",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 182,
+            "name" : "Saint Helena",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 183,
+            "name" : "Ascension and Tristan da Cunha",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 184,
+            "name" : "Senegal",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 185,
+            "name" : "Sierra Leone",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 186,
+            "name" : "São Tomé and Príncipe",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 187,
+            "name" : "Togo",
+            "utcOffset" : 0,
+            "useDTS" : false,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 188,
+            "name" : "Faroe Islands",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 189,
+            "name" : "Guernsey",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 190,
+            "name" : "Ireland",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 191,
+            "name" : "Isle of Man",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 192,
+            "name" : "Jersey",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 193,
+            "name" : "Portugal (most)",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 194,
+            "name" : "Canary Islands",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 195,
+            "name" : "United Kingdom",
+            "utcOffset" : 0,
+            "useDTS" : true,
+            "timezoneID" : 15
+        },
+        {
+            "id" : 196,
+            "name" : "Algeria",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 197,
+            "name" : "Angola",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 198,
+            "name" : "Benin",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 199,
+            "name" : "Cameroon",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 200,
+            "name" : "Central African Republic",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 201,
+            "name" : "Chad",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 202,
+            "name" : "Congo",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 203,
+            "name" : "Équateur",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 204,
+            "name" : "Kinshasa",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 205,
+            "name" : "Kongo Central",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 206,
+            "name" : "Kwango",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 207,
+            "name" : "Kwilu",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 208,
+            "name" : "Mai-Ndombe",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 209,
+            "name" : "Mongala",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 210,
+            "name" : "Nord-Ubangi",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 211,
+            "name" : "Sud-Ubangi",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 212,
+            "name" : "Tshuapa",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 213,
+            "name" : "Equatorial Guinea",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 214,
+            "name" : "Gabon",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 215,
+            "name" : "Morocco",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 216,
+            "name" : "Niger",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 217,
+            "name" : "Nigeria",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 218,
+            "name" : "Tunisia",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 219,
+            "name" : "Western Sahara",
+            "utcOffset" : 1,
+            "useDTS" : false,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 220,
+            "name" : "Albania",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 221,
+            "name" : "Andorra",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 222,
+            "name" : "Austria",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 223,
+            "name" : "Belgium",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 224,
+            "name" : "Bosnia and Herzegovina",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 225,
+            "name" : "Croatia",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 226,
+            "name" : "Czech Republic",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 227,
+            "name" : "Denmark",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 228,
+            "name" : "France (metropolitan)",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 229,
+            "name" : "Germany",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 230,
+            "name" : "Gibraltar",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 231,
+            "name" : "Hungary",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 232,
+            "name" : "Italy",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 233,
+            "name" : "Kosovo",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 234,
+            "name" : "Liechtenstein",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 235,
+            "name" : "Luxembourg",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 236,
+            "name" : "Malta",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 237,
+            "name" : "Monaco",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 238,
+            "name" : "Montenegro",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 239,
+            "name" : "Netherlands (European)",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 240,
+            "name" : "North Macedonia",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 241,
+            "name" : "Norway",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 242,
+            "name" : "Poland",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 243,
+            "name" : "San Marino",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 244,
+            "name" : "Serbia",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 245,
+            "name" : "Slovakia",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 246,
+            "name" : "Slovenia",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 247,
+            "name" : "Spain (most)",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 248,
+            "name" : "Sweden",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 249,
+            "name" : "Switzerland",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 250,
+            "name" : "Vatican City",
+            "utcOffset" : 1,
+            "useDTS" : true,
+            "timezoneID" : 16
+        },
+        {
+            "id" : 251,
+            "name" : "Botswana",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 252,
+            "name" : "Burundi",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 253,
+            "name" : "Democratic Republic of the Congo (most)",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 254,
+            "name" : "Egypt",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 255,
+            "name" : "Eswatini",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 256,
+            "name" : "Lesotho",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 257,
+            "name" : "Libya",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 258,
+            "name" : "Malawi",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 259,
+            "name" : "Mozambique",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 260,
+            "name" : "Namibia",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 261,
+            "name" : "Kaliningrad",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 262,
+            "name" : "Rwanda",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 263,
+            "name" : "South Africa (most)",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 264,
+            "name" : "South Sudan",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 265,
+            "name" : "Sudan",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 266,
+            "name" : "Zambia",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 267,
+            "name" : "Zimbabwe",
+            "utcOffset" : 2,
+            "useDTS" : false,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 268,
+            "name" : "Akrotiri and Dhekelia",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 269,
+            "name" : "Bulgaria",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 270,
+            "name" : "Cyprus",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 271,
+            "name" : "Estonia",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 272,
+            "name" : "Finland",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 273,
+            "name" : "Greece",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 274,
+            "name" : "Israel",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 275,
+            "name" : "Jordan",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 276,
+            "name" : "Latvia",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 277,
+            "name" : "Lebanon",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 278,
+            "name" : "Lithuania",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 279,
+            "name" : "Moldova",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 280,
+            "name" : "Northern Cyprus",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 281,
+            "name" : "Palestine",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 282,
+            "name" : "Romania",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 283,
+            "name" : "Transnistria",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 284,
+            "name" : "Syria",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 285,
+            "name" : "Ukraine (most)",
+            "utcOffset" : 2,
+            "useDTS" : true,
+            "timezoneID" : 17
+        },
+        {
+            "id" : 286,
+            "name" : "Abkhazia",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 287,
+            "name" : "Bahrain",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 288,
+            "name" : "Belarus",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 289,
+            "name" : "Comoros",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 290,
+            "name" : "Djibouti",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 291,
+            "name" : "Eritrea",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 292,
+            "name" : "Ethiopia",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 293,
+            "name" : "Scattered Islands",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 294,
+            "name" : "Iraq",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 295,
+            "name" : "Kenya",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 296,
+            "name" : "Kuwait",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 297,
+            "name" : "Madagascar",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 298,
+            "name" : "Mayotte",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 299,
+            "name" : "Qatar",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 300,
+            "name" : "Russia (most of European part)",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 301,
+            "name" : "Saudi Arabia",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 302,
+            "name" : "Somalia",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 303,
+            "name" : "Somaliland",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 304,
+            "name" : "Prince Edward Islands",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 305,
+            "name" : "South Ossetia",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 306,
+            "name" : "Tanzania",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 307,
+            "name" : "Turkey",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 308,
+            "name" : "Uganda",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 309,
+            "name" : "Donetsk PR",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 310,
+            "name" : "Luhansk PR",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 311,
+            "name" : "Crimea",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 312,
+            "name" : "Yemen",
+            "utcOffset" : 3,
+            "useDTS" : false,
+            "timezoneID" : 18
+        },
+        {
+            "id" : 313,
+            "name" : "Iran",
+            "utcOffset" : 3.5,
+            "useDTS" : true,
+            "timezoneID" : 19
+        },
+        {
+            "id" : 314,
+            "name" : "Armenia",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 315,
+            "name" : "Artsakh",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 316,
+            "name" : "Azerbaijan",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 317,
+            "name" : "Crozet Islands",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 318,
+            "name" : "Georgia",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 319,
+            "name" : "Mauritius",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 320,
+            "name" : "Oman",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 321,
+            "name" : "Astrakhan",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 322,
+            "name" : "Samara",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 323,
+            "name" : "Saratov",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 324,
+            "name" : "Udmurtia",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 325,
+            "name" : "Ulyanovsk",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 326,
+            "name" : "Réunion",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 327,
+            "name" : "Seychelles",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 328,
+            "name" : "United Arab Emirates",
+            "utcOffset" : 4,
+            "useDTS" : false,
+            "timezoneID" : 20
+        },
+        {
+            "id" : 329,
+            "name" : "Afghanistan",
+            "utcOffset" : 4.5,
+            "useDTS" : false,
+            "timezoneID" : 21
+        },
+        {
+            "id" : 330,
+            "name" : "Kerguelen Islands",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 331,
+            "name" : "Saint Paul Island",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 332,
+            "name" : "Amsterdam Island",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 333,
+            "name" : "Heard Island and McDonald Islands",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 334,
+            "name" : "Aktobe",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 335,
+            "name" : "Atyrau",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 336,
+            "name" : "Baikonur",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 337,
+            "name" : "Kyzylorda",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 338,
+            "name" : "Mangystau",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 339,
+            "name" : "West Kazakhstan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 340,
+            "name" : "Maldives",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 341,
+            "name" : "Pakistan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 342,
+            "name" : "Bashkortostan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 343,
+            "name" : "Chelyabinsk",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 344,
+            "name" : "Khanty-Mansi",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 345,
+            "name" : "Kurgan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 346,
+            "name" : "Orenburg",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 347,
+            "name" : "Perm",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 348,
+            "name" : "Sverdlovsk",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 349,
+            "name" : "Tyumen",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 350,
+            "name" : "Yamalia",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 351,
+            "name" : "Tajikistan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 352,
+            "name" : "Turkmenistan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 353,
+            "name" : "Uzbekistan",
+            "utcOffset" : 5,
+            "useDTS" : false,
+            "timezoneID" : 22
+        },
+        {
+            "id" : 354,
+            "name" : "India",
+            "utcOffset" : 5.5,
+            "useDTS" : false,
+            "timezoneID" : 23
+        },
+        {
+            "id" : 355,
+            "name" : "Sri Lanka",
+            "utcOffset" : 5.5,
+            "useDTS" : false,
+            "timezoneID" : 23
+        },
+        {
+            "id" : 356,
+            "name" : "Nepal",
+            "utcOffset" : 5.75,
+            "useDTS" : false,
+            "timezoneID" : 24
+        },
+        {
+            "id" : 357,
+            "name" : "Bangladesh",
+            "utcOffset" : 6,
+            "useDTS" : false,
+            "timezoneID" : 25
+        },
+        {
+            "id" : 358,
+            "name" : "Bhutan",
+            "utcOffset" : 6,
+            "useDTS" : false,
+            "timezoneID" : 25
+        },
+        {
+            "id" : 359,
+            "name" : "British Indian Ocean Territory",
+            "utcOffset" : 6,
+            "useDTS" : false,
+            "timezoneID" : 25
+        },
+        {
+            "id" : 360,
+            "name" : "Kazakhstan (most)",
+            "utcOffset" : 6,
+            "useDTS" : false,
+            "timezoneID" : 25
+        },
+        {
+            "id" : 361,
+            "name" : "Kyrgyzstan",
+            "utcOffset" : 6,
+            "useDTS" : false,
+            "timezoneID" : 25
+        },
+        {
+            "id" : 362,
+            "name" : "Omsk",
+            "utcOffset" : 6,
+            "useDTS" : false,
+            "timezoneID" : 25
+        },
+        {
+            "id" : 363,
+            "name" : "Cocos Islands",
+            "utcOffset" : 6.5,
+            "useDTS" : false,
+            "timezoneID" : 26
+        },
+        {
+            "id" : 364,
+            "name" : "Myanmar",
+            "utcOffset" : 6.5,
+            "useDTS" : false,
+            "timezoneID" : 26
+        },
+        {
+            "id" : 365,
+            "name" : "Cambodia",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 366,
+            "name" : "Christmas Island",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 367,
+            "name" : "Sumatra",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 368,
+            "name" : "Java",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 369,
+            "name" : "West Kalimantan",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 370,
+            "name" : "Central Kalimantan",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 371,
+            "name" : "Laos",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 372,
+            "name" : "Bayan-Ölgii",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 373,
+            "name" : "Khovd",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 374,
+            "name" : "Uvs",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 375,
+            "name" : "Altai Krai",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 376,
+            "name" : "Altai Republic",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 377,
+            "name" : "Kemerovo",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 378,
+            "name" : "Khakassia",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 379,
+            "name" : "Krasnoyarsk",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 380,
+            "name" : "Novosibirsk",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 381,
+            "name" : "Tomsk",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 382,
+            "name" : "Tuva",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 383,
+            "name" : "Thailand",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 384,
+            "name" : "Vietnam",
+            "utcOffset" : 7,
+            "useDTS" : false,
+            "timezoneID" : 27
+        },
+        {
+            "id" : 385,
+            "name" : "Western Australia (most)",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 386,
+            "name" : "Brunei",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 387,
+            "name" : "China",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 388,
+            "name" : "Hong Kong",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 389,
+            "name" : "South Kalimantan",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 390,
+            "name" : "East Kalimantan",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 391,
+            "name" : "North Kalimantan",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 392,
+            "name" : "Sulawesi",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 393,
+            "name" : "Bali",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 394,
+            "name" : "West Nusa Tenggara",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 395,
+            "name" : "East Nusa Tenggara",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 396,
+            "name" : "Macau",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 397,
+            "name" : "Malaysia",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 398,
+            "name" : "Mongolia (most)",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 399,
+            "name" : "Philippines",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 400,
+            "name" : "Buryatia",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 401,
+            "name" : "Irkutsk",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 402,
+            "name" : "Singapore",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 403,
+            "name" : "Taiwan",
+            "utcOffset" : 8,
+            "useDTS" : false,
+            "timezoneID" : 28
+        },
+        {
+            "id" : 404,
+            "name" : "Eucla",
+            "utcOffset" : 8.75,
+            "useDTS" : false,
+            "timezoneID" : 29
+        },
+        {
+            "id" : 405,
+            "name" : "East Timor",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 406,
+            "name" : "Maluku",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 407,
+            "name" : "North Maluku",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 408,
+            "name" : "Papua",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 409,
+            "name" : "West Papua",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 410,
+            "name" : "Japan",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 411,
+            "name" : "North Korea",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 412,
+            "name" : "Palau",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 413,
+            "name" : "Amur",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 414,
+            "name" : "Sakha (most)",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 415,
+            "name" : "Zabaykalsky",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 416,
+            "name" : "South Korea",
+            "utcOffset" : 9,
+            "useDTS" : false,
+            "timezoneID" : 30
+        },
+        {
+            "id" : 417,
+            "name" : "Northern Territory",
+            "utcOffset" : 9.5,
+            "useDTS" : false,
+            "timezoneID" : 31
+        },
+        {
+            "id" : 418,
+            "name" : "South Australia",
+            "utcOffset" : 9.5,
+            "useDTS" : true,
+            "timezoneID" : 31
+        },
+        {
+            "id" : 419,
+            "name" : "Queensland",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 420,
+            "name" : "Guam",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 421,
+            "name" : "Chuuk",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 422,
+            "name" : "Yap",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 423,
+            "name" : "Northern Mariana Islands",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 424,
+            "name" : "Papua New Guinea (most)",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 425,
+            "name" : "Jewish",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 426,
+            "name" : "Khabarovsk",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 427,
+            "name" : "Primorsky",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 428,
+            "name" : "Sakha (central-east)",
+            "utcOffset" : 10,
+            "useDTS" : false,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 429,
+            "name" : "Australian Capital Territory",
+            "utcOffset" : 10,
+            "useDTS" : true,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 430,
+            "name" : "Jervis Bay Territory",
+            "utcOffset" : 10,
+            "useDTS" : true,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 431,
+            "name" : "New South Wales (most)",
+            "utcOffset" : 10,
+            "useDTS" : true,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 432,
+            "name" : "Tasmania",
+            "utcOffset" : 10,
+            "useDTS" : true,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 433,
+            "name" : "Victoria",
+            "utcOffset" : 10,
+            "useDTS" : true,
+            "timezoneID" : 32
+        },
+        {
+            "id" : 434,
+            "name" : "Lord Howe Island",
+            "utcOffset" : 10.5,
+            "useDTS" : true,
+            "timezoneID" : 33
+        },
+        {
+            "id" : 435,
+            "name" : "Kosrae",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 436,
+            "name" : "Pohnpei",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 437,
+            "name" : "New Caledonia",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 438,
+            "name" : "Bougainville",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 439,
+            "name" : "Magadan",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 440,
+            "name" : "Sakha (east)",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 441,
+            "name" : "Sakhalin",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 442,
+            "name" : "Solomon Islands",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 443,
+            "name" : "Vanuatu",
+            "utcOffset" : 11,
+            "useDTS" : false,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 444,
+            "name" : "Norfolk Island",
+            "utcOffset" : 11,
+            "useDTS" : true,
+            "timezoneID" : 34
+        },
+        {
+            "id" : 445,
+            "name" : "Fiji",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 446,
+            "name" : "Gilbert Islands",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 447,
+            "name" : "Marshall Islands",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 448,
+            "name" : "Nauru",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 449,
+            "name" : "Chukotka",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 450,
+            "name" : "Kamchatka",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 451,
+            "name" : "Tuvalu",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 452,
+            "name" : "Wake Island",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 453,
+            "name" : "Wallis and Futuna",
+            "utcOffset" : 12,
+            "useDTS" : false,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 454,
+            "name" : "New Zealand (most)",
+            "utcOffset" : 12,
+            "useDTS" : true,
+            "timezoneID" : 35
+        },
+        {
+            "id" : 455,
+            "name" : "Chatham Islands",
+            "utcOffset" : 12.75,
+            "useDTS" : true,
+            "timezoneID" : 36
+        },
+        {
+            "id" : 456,
+            "name" : "Phoenix Islands",
+            "utcOffset" : 13,
+            "useDTS" : false,
+            "timezoneID" : 37
+        },
+        {
+            "id" : 457,
+            "name" : "Samoa",
+            "utcOffset" : 13,
+            "useDTS" : false,
+            "timezoneID" : 37
+        },
+        {
+            "id" : 458,
+            "name" : "Tokelau",
+            "utcOffset" : 13,
+            "useDTS" : false,
+            "timezoneID" : 37
+        },
+        {
+            "id" : 459,
+            "name" : "Tonga",
+            "utcOffset" : 13,
+            "useDTS" : false,
+            "timezoneID" : 37
+        },
+        {
+            "id" : 460,
+            "name" : "Line Islands",
+            "utcOffset" : 14,
+            "useDTS" : false,
+            "timezoneID" : 38
+        },
+        {
+            "id" : 461,
+            "name" : "Saint Vincent and the Grenadines",
+            "utcOffset" : -4,
+            "useDTS" : false,
+            "timezoneID" : 10
+        }
+    ]
+} 
+ 
